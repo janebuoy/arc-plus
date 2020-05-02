@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="arc-plus" Version="1.0.2" Publisher="ph-hawkins"/>
+    <Identity Language="en-US" Id="arc-tomorrow" Version="1.0.0" Publisher="janebuoy"/>
     <DisplayName>Arc+</DisplayName>
-    <Description xml:space="preserve">A color theme inspired by Arc, Material, and Dark+</Description>
+    <Description xml:space="preserve">"A color theme inspired by Arc and Base16 Tomorrow</Description>
     <Tags>theme,color-theme</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
@@ -12,10 +12,10 @@
       <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.13.0" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/phil-harmoniq/arc-plus" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/phil-harmoniq/arc-plus" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/janebuoy/vscode-arc-tomorrow" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/janebuoy/vscode-arc-tomorrow" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/phil-harmoniq/arc-plus" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/janebuoy/vscode-arc-tomorrow" />
         
       
       
